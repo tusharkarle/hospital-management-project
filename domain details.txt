@@ -1,0 +1,9 @@
+database name:- website
+
+database username:-root
+
+database password:- free123
+
+
+
+https://databases.000webhost.com/db_structure.php?server=1&db=id12844148_website

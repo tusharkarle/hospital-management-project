@@ -1,0 +1,178 @@
+*{	
+
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	font-family:'Berlin Sans FB Demi';
+	letter-spacing:2px;
+
+
+
+}
+
+.header{
+	width: 100%;
+	height: 100%;
+	background-image: url('background.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: relative;
+
+}
+
+
+.top{
+
+	width: 100%;
+	height: 12%;
+	display: flex;
+	justify-content:left;
+
+}
+
+
+.logo{
+	width:30%;
+	height:12%;
+	margin: 5px;
+	padding-left: 10px;
+
+
+}
+
+
+.description{
+	width:50%;
+	height:12%;
+	direction: ltr;
+	text-align:left;
+	padding-top: 20px;
+
+
+
+}
+
+.login{
+	width:15%;
+	height:12%;
+	direction: rtl;
+	text-align: center;
+	align-content: center;
+	padding-top: 10px;
+	margin-right: 0px;
+
+
+
+
+}
+
+.signup{
+	width:10%;
+	height:12%;
+	direction:rtl;
+	padding-top: 10px;
+	margin-right: 0px;
+	margin-right: 0;
+
+
+
+
+}
+
+
+
+.text{
+
+	width: 18%;
+	font-size: 22px;
+	padding-top: 23px;
+	color: #330066;
+}
+
+
+.logout{
+width:10%;
+padding-top:12px;
+
+
+}
+
+
+/*middle components*/
+.middle{
+	width: 100%;
+	height: 550px;
+
+
+
+}
+
+
+.middle h1{
+	width: 100%;
+	height: 80px;
+
+	text-align: center;
+	padding-top: 20px;
+
+
+
+}
+
+.middle form{
+	background-color: #333333;
+	color: white;
+	width: 600px;
+	height: 420px;
+	margin-left: 400px;
+	margin-top: 5px;
+	padding: 30px;
+	border-radius: 40px;
+	text-align: center;
+
+
+
+
+}
+
+
+
+
+/*bottom components*/
+.bottom{
+	width: 100%;
+	height: 13%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	position: absolute;
+	bottom: 0;
+
+
+}
+
+.contactus{
+	width: 100px;
+	height: 13%;
+	position: absolute;
+	bottom: 75%;
+	left: 30%;
+
+
+
+
+}
+
+.help{
+	width: 100px;
+	height: 13%;
+	position: absolute;
+	bottom: 75%;
+	right: 30%;
+
+
+
+
+
+
+}
